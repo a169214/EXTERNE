@@ -1,0 +1,4 @@
+EXTERNE
+=======
+
+Test externalisation
